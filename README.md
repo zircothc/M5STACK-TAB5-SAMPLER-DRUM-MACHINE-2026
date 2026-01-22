@@ -12,6 +12,7 @@ Samples
   
 Synth
 - Added synth engine (upgraded from my previous drum synth. Now is 16bit)
+- 16 tracks, select between sampler and synth
 
 FX
 - FX per channel: Reverb, Delay, Chorus, Flanger, Tremolo.
