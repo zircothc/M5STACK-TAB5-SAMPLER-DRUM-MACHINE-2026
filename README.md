@@ -20,3 +20,5 @@ FX
 
 USB HOST
 - USB MIDI host. Now is mapped to use with AKI APC KEY25
+
+I'm updating GUI. I will upload code soon.
