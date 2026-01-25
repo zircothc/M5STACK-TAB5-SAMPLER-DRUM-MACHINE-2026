@@ -11,8 +11,9 @@ Samples
 - ADSR
   
 Synth
-- Added synth engine (upgraded from my previous drum synth. Now is 16bit)
-- 16 tracks, select between sampler and synth
+- Added synth engine (upgraded from my previous drum synth. Now is 16bit 44100 instead of 8bit 22050
+- Each track can be sampler or synth.
+- Now working on a multi-wavetable voice.
 
 FX
 - FX per channel: Reverb, Delay, Chorus, Flanger, Tremolo.
