@@ -13,13 +13,13 @@ Samples
 Synth
 - Added synth engine (upgraded from my previous drum synth. Now is 16bit 44100 instead of 8bit 22050
 - Each track can be sampler or synth.
-- Now working on a multi-wavetable voice.
+- Multi-wavetable voice.
 
 FX
-- FX per channel: Reverb, Delay, Chorus, Flanger, Tremolo.
+- FX per channel: Reverb, Delay, Chorus, Flanger, Tremolo, etc
 - Sets of presets on every FX
 
 USB HOST
 - USB MIDI host. Now is mapped to use with AKI APC KEY25
 
-I'm updating GUI. I will upload code soon.
+GUI:
