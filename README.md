@@ -1,4 +1,6 @@
 # M5STACK-TAB5-SAMPLER-DRUM-MACHINE-2026
+![tab5_synth](https://github.com/user-attachments/assets/7a61c046-0e4a-479e-8a97-a1a52efa29c4)
+
 
 M5STACK TAB5 SAMPLER DRUM MACHINE 2026 - ESP32 P4
 
