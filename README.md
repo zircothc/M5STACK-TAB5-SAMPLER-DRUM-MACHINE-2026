@@ -4,7 +4,7 @@
 
 M5STACK TAB5 SAMPLER DRUM MACHINE 2026 - ESP32 P4
 
-This is my ported vsampler to M5STACK TAB5
+This is my ported vsampler/drum machine/groovebox to M5STACK TAB5
 
 Added a lot of features.
 
@@ -32,6 +32,8 @@ WHAT YOU NEED:
 - M5Unified Library (ArduinoIDE library manager) (3.2.5)
 - esp32-usb-host-demos Library from touchgadget https://github.com/touchgadget/esp32-usb-host-demos
 - Rest of libraries are already included (I think)
+
+VIDEO SOON ;)
 
 ## SYSTEM OVERVIEW
 Hybrid music production system based on the M5STACK TAB5 with the ESP32-P4 microcontroller. It combines an enhanced synthesis engine with a sample player, designed for live performance and generative musical ideas.
