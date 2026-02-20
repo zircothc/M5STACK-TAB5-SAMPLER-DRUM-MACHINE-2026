@@ -23,10 +23,13 @@ USB HOST
 - USB MIDI host. Now is mapped to use with AKI APC KEY25
 
 WHAT YOU NEED:
-- M5STACK TAB5 HARDWARE
+- M5STACK TAB5 HARDWARE 
 - Arduino IDE 2.3.7
-- M5Unified Library (library manager)
+- ESP boards from Expressif (3.3.3)
+- M%STACK boards (3.2.5)
+- M5Unified Library (ArduinoIDE library manager) (3.2.5)
 - esp32-usb-host-demos Library from touchgadget https://github.com/touchgadget/esp32-usb-host-demos
+- Rest of libraries are already included (I think)
 
 ## SYSTEM OVERVIEW
 Hybrid music production system based on the M5STACK TAB5 with the ESP32-P4 microcontroller. It combines an enhanced synthesis engine with a sample player, designed for live performance and generative musical ideas.
