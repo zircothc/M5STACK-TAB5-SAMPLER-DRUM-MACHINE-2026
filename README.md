@@ -32,6 +32,7 @@ WHAT YOU NEED:
 - M5Unified Library and dependencies (ArduinoIDE library manager) (3.2.5)
 - esp32-usb-host-demos Library from touchgadget https://github.com/touchgadget/esp32-usb-host-demos
 - Rest of libraries are already included (I think)
+- MicroSD card with (128 max) WAV files (mono 16bit 44100hz) If you dont have SD or is not inserted or no compatible WAV files on SD you can still use machine as synth only. NO SOUNDS ON FLASH
 
 VIDEO SOON ;)
 
