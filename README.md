@@ -60,7 +60,7 @@ The system features **16 Tracks**: 8 Synthesizer tracks (Left) and 8 Sampler tra
 
 ### Sampler Features
 * **Source:** WAV files (Mono, 16-bit, 44.1kHz) from SD card.
-* **Capacity:** Loads the first 128 compatible files or until the 16MB of reserved PSRAM is full.
+* **Capacity:** Loads the first 128 compatible files or until the 24MB of reserved PSRAM is full.
 * **Fallback:** If no SD card is present, the system operates exclusively as a synthesizer.
 * **Envelope:** Full ADSR available for samples.
 
